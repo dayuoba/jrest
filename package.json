@@ -1,0 +1,26 @@
+{
+  "name": "jrest",
+  "version": "1.0.0",
+  "description": "json rest",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dayuoba/jrest"
+  },
+  "keywords": [
+    "json",
+    "rest"
+  ],
+  "author": "dayuoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayuoba/jrest/issues"
+  },
+  "homepage": "https://github.com/dayuoba/jrest"
+}
