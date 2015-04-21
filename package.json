@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "json rest",
   "main": "server.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "lodash": "^3.7.0",
+    "log4js": "^0.6.24"
+  },
+  "devDependencies": {
+    "should": "^6.0.1"
+  },
   "scripts": {
     "test": "mocha",
     "start": "node server.js"
