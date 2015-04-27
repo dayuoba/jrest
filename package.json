@@ -6,6 +6,7 @@
   "dependencies": {
     "lodash": "^3.7.0",
     "log4js": "^0.6.24",
+    "mongodb": "^2.0.28",
     "rootdir": "^1.0.6"
   },
   "devDependencies": {
