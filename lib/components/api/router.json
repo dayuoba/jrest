@@ -1,0 +1,9 @@
+{
+	"get":{
+		"/user":"handleUserGet",
+		"/topics": "handleTopicsGet"
+		},
+	"post":{},
+	"put":{},
+	"delete":{}
+}
