@@ -8,7 +8,7 @@ process.on('uncaughtException', handleUncaughtException);
 function handleUncaughtException(err) {
 	//TODO
 	//restfulServer.application.NElogger.error(err);
-	console.log(err);
+	console.log(err.stack);
 }
 
 
